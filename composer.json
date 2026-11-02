@@ -1,5 +1,1 @@
-{"name":"liberusoftware/module-crm-documents","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\Documents\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\Documents\\DocumentsServiceProvider"]},"liberu":{"name":"crm-documents"}},
-    "require": {
-        "liberusoftware/module-organizations-teams": "^1.0"
-    }
-}
+{"name":"liberusoftware/module-crm-documents","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\Documents\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\Documents\\DocumentsServiceProvider"]},"liberu":{"name":"crm-documents"}},"description":"Sales and service files, access, versions, retention and links","license":"MIT"}
