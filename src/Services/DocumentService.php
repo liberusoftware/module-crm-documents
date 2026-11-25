@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Services;
+namespace Liberu\CRM\Documents\Services;
 
-use App\Models\Document;
+use Liberu\CRM\Documents\Models\Document;
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Http\UploadedFile;
